@@ -1,0 +1,10 @@
+fuzzutf8
+JULY/2011
+
+This tool aims to make it easier to produce randomised utf8 codepoints.
+
+It's for command line use, developed on mac os x, should work on Windows and *nix.
+
+For use with Ruby versions 1.9+, (Earlier versions of Ruby do not have reliable utf8 handling.) 
+
+This script needs more testing... ;-)
